@@ -4,7 +4,7 @@ namespace AppCotarBem.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResul Index()
+        public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
 
