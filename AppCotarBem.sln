@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCotarBem", "AppCotarBem\AppCotarBem.csproj", "{A5835145-079E-40DB-B331-BA4422A5A5F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{DD04766F-D19F-4585-A122-DC6FF3A0E799}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{A79A2A19-78C6-4CE5-B772-15854EDA7257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCotarBem.Domain", "AppCotarBem.Domain\AppCotarBem.Domain.csproj", "{589D9A63-3B07-45C5-8D75-D6BB84F43C57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{8CE25E23-3BB8-42E4-A3ED-E3E37D71B1E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{69108F55-69A1-4780-AA63-4C1874CBCACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCotarBem.Infra.Data", "AppCotarBem.Infra.Data\AppCotarBem.Infra.Data.csproj", "{F9AF5350-BCDD-4859-809C-2912E4B03590}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrossCutting", "CrossCutting", "{C4E73058-8025-44C3-A3BB-E84A5703DB33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{C5577FE8-898F-45A1-8219-6B9C807120D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{334C73C6-4012-4C2F-AC17-763554B5BE1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCotarBem.Application", "AppCotarBem.Application\AppCotarBem.Application.csproj", "{13190094-63F7-4BAD-8B19-5D0D76801ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5835145-079E-40DB-B331-BA4422A5A5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5835145-079E-40DB-B331-BA4422A5A5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5835145-079E-40DB-B331-BA4422A5A5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5835145-079E-40DB-B331-BA4422A5A5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589D9A63-3B07-45C5-8D75-D6BB84F43C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589D9A63-3B07-45C5-8D75-D6BB84F43C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589D9A63-3B07-45C5-8D75-D6BB84F43C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589D9A63-3B07-45C5-8D75-D6BB84F43C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AF5350-BCDD-4859-809C-2912E4B03590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AF5350-BCDD-4859-809C-2912E4B03590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AF5350-BCDD-4859-809C-2912E4B03590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AF5350-BCDD-4859-809C-2912E4B03590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13190094-63F7-4BAD-8B19-5D0D76801ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13190094-63F7-4BAD-8B19-5D0D76801ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13190094-63F7-4BAD-8B19-5D0D76801ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13190094-63F7-4BAD-8B19-5D0D76801ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A5835145-079E-40DB-B331-BA4422A5A5F6} = {DD04766F-D19F-4585-A122-DC6FF3A0E799}
+		{589D9A63-3B07-45C5-8D75-D6BB84F43C57} = {A79A2A19-78C6-4CE5-B772-15854EDA7257}
+		{69108F55-69A1-4780-AA63-4C1874CBCACE} = {8CE25E23-3BB8-42E4-A3ED-E3E37D71B1E5}
+		{F9AF5350-BCDD-4859-809C-2912E4B03590} = {69108F55-69A1-4780-AA63-4C1874CBCACE}
+		{C4E73058-8025-44C3-A3BB-E84A5703DB33} = {8CE25E23-3BB8-42E4-A3ED-E3E37D71B1E5}
+		{13190094-63F7-4BAD-8B19-5D0D76801ACE} = {C5577FE8-898F-45A1-8219-6B9C807120D1}
+	EndGlobalSection
+EndGlobal

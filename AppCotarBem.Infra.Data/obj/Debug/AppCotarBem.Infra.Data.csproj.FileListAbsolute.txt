@@ -1,0 +1,12 @@
+C:\Desenvolvimento\AppCotarBem.Infra.Data\bin\Debug\AppCotarBem.Infra.Data.dll.config
+C:\Desenvolvimento\AppCotarBem.Infra.Data\bin\Debug\AppCotarBem.Infra.Data.dll
+C:\Desenvolvimento\AppCotarBem.Infra.Data\bin\Debug\AppCotarBem.Infra.Data.pdb
+C:\Desenvolvimento\AppCotarBem.Infra.Data\bin\Debug\AppCotarBem.Domain.dll
+C:\Desenvolvimento\AppCotarBem.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Desenvolvimento\AppCotarBem.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Desenvolvimento\AppCotarBem.Infra.Data\bin\Debug\AppCotarBem.Domain.pdb
+C:\Desenvolvimento\AppCotarBem.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Desenvolvimento\AppCotarBem.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Desenvolvimento\AppCotarBem.Infra.Data\obj\Debug\AppCotarBem.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\AppCotarBem.Infra.Data\obj\Debug\AppCotarBem.Infra.Data.dll
+C:\Desenvolvimento\AppCotarBem.Infra.Data\obj\Debug\AppCotarBem.Infra.Data.pdb

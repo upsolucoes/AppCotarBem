@@ -1,0 +1,7 @@
+C:\Desenvolvimento\AppCotarBem.Application\bin\Release\AppCotarBem.Application.dll
+C:\Desenvolvimento\AppCotarBem.Application\bin\Release\AppCotarBem.Application.pdb
+C:\Desenvolvimento\AppCotarBem.Application\bin\Release\AppCotarBem.Domain.dll
+C:\Desenvolvimento\AppCotarBem.Application\bin\Release\AppCotarBem.Domain.pdb
+C:\Desenvolvimento\AppCotarBem.Application\obj\Release\AppCotarBem.Application.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\AppCotarBem.Application\obj\Release\AppCotarBem.Application.dll
+C:\Desenvolvimento\AppCotarBem.Application\obj\Release\AppCotarBem.Application.pdb
